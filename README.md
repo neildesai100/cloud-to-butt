@@ -8,7 +8,7 @@ Chrome extension that replaces occurrences of 'coronavirus' with '🅱️oronavi
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CoronaToBorona.crx into the page that appears.
+Download the 'CoronaToBorona.crx' file. In Chrome, choose Window > Extensions.  Drag CoronaToBorona.crx into the page that appears.
 
 Why
 ------------
